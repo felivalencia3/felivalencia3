@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **felipe.valencia2003@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1QfaTqR9rHg-eka3e2i8vSPOv5NMys6eL/view?usp=sharing](https://drive.google.com/file/d/1QfaTqR9rHg-eka3e2i8vSPOv5NMys6eL/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1QfaTqR9rHg-eka3e2i8vSPOv5NMys6eL/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

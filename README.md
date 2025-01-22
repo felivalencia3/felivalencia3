@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Felipe Valencia</h1>
-<h3 align="center">Georgia Tech BsC Computer Science '2025. ex-Apple intern.</h3>
+<h3 align="center">Georgia Tech Bachelor's in Computer Science Graduating: May 2025. ex-Apple intern.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=felivalencia3" alt="felivalencia3" /></a> </p>
 

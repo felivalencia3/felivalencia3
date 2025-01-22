@@ -11,9 +11,9 @@
 - 🌱 My latest project was a **Large Language Model-powered App Store Search platform**
   - 👨‍💻 Developed during my time as a Software Engineering Intern in **the App Store Engineering Team at Apple**
 
-- 📫 How to reach me **felipe.valencia2003@gmail.com**
+- 📫 How to reach me: **felipe.valencia2003@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1QfaTqR9rHg-eka3e2i8vSPOv5NMys6eL/view?usp=sharing)
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1QfaTqR9rHg-eka3e2i8vSPOv5NMys6eL/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

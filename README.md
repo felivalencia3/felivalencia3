@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Felipe Valencia</h1>
 <h3 align="center">Georgia Tech Bachelor's in Computer Science Graduating: May 2025. ex-Apple intern.</h3>
 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=felivalencia3&show_icons=true&theme=tokyonight&locale=en" alt="felivalencia3" />
-</p>
-
 - 🔭 I’m currently working on **Synfi. An AI Music Drafting App.**
 
 - 🌱 My latest project was a **Large Language Model-powered App Store Search platform**

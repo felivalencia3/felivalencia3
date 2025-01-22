@@ -8,9 +8,8 @@
 
 - 🔭 I’m currently working on **Synfi. An AI Music Drafting App.**
 
-- 🌱 My latest project was **Large Language Model-powered App Store search platform**
-
-- 👨‍💻 I've worked at **the App Store Engineering Team at Apple**
+- 🌱 My latest project was a **Large Language Model-powered App Store Search platform**
+  - 👨‍💻 Developed during my time as a Software Engineering Intern in **the App Store Engineering Team at Apple**
 
 - 📫 How to reach me **felipe.valencia2003@gmail.com**
 
